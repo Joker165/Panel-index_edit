@@ -37,12 +37,22 @@
     "PREFIX": ".",
     "SUDO": "2348022159244"
   },
-  "session3": {
+   "session3": {
+    "SESSION_ID": "levanter_211c36e02202d94698ae2e800d0f395b58",
+    "PREFIX": ".",
+    "SUDO": "2348022159244"
+  },
+   "session4": {
+    "SESSION_ID": "levanter_211c36e02202d94698ae2e800d0f395b58",
+    "PREFIX": ".",
+    "SUDO": "2348022159244"
+  },
+  "session5": {
     "SESSION_ID": "levanter_2312cd2b2e063e4aa5995e13c4d28112d7",
     "PREFIX": ".",
       "SUDO": "2348022159244"
   },
-  "session4": {
+  "session6": {
        "SESSION_ID": "levanter_23b4f85b0ab58b439b8cf6c4d6551c2494",
        "PREFIX": ".",
       "SUDO": "2348022159244"
