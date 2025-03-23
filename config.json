@@ -1,6 +1,6 @@
 {
   "session1": {
-    "SESSION_ID": "levanter_211c36e02202d94698ae2e800d0f395b58",
+    "SESSION_ID": "levanter_23e38ea0f063544611badd29501cfba2f8",
     "PREFIX": "^[.,!]",
     "SUDO": "2348022159244",
     "STICKER_PACKNAME": "❤️,LyFE",
@@ -33,27 +33,27 @@
     "CMD_REACTION": "true"
   },
     "session2": {
-    "SESSION_ID": "levanter_211c36e02202d94698ae2e800d0f395b58",
+    "SESSION_ID": "levanter_23805ee498d2714f2b9ad0ba881711083b",
     "PREFIX": ".",
     "SUDO": "2348022159244"
   },
    "session3": {
-    "SESSION_ID": "levanter_211c36e02202d94698ae2e800d0f395b58",
+    "SESSION_ID": "levanter_233533e1b1f1f34840849be2a35be9d795",
     "PREFIX": ".",
     "SUDO": "2348022159244"
   },
    "session4": {
-    "SESSION_ID": "levanter_211c36e02202d94698ae2e800d0f395b58",
+    "SESSION_ID": "levanter_233fb5f7e07def43e1b4a43f481adbdb3e",
     "PREFIX": ".",
     "SUDO": "2348022159244"
   },
   "session5": {
-    "SESSION_ID": "levanter_2312cd2b2e063e4aa5995e13c4d28112d7",
+    "SESSION_ID": "levanter_23a4dd5cc2ef454e40ab63e09ed6d2b062",
     "PREFIX": ".",
       "SUDO": "2348022159244"
   },
   "session6": {
-       "SESSION_ID": "levanter_23b4f85b0ab58b439b8cf6c4d6551c2494",
+       "SESSION_ID": "levanter_239709d998eb0346969b38fe5f2f2f02a8",
        "PREFIX": ".",
       "SUDO": "2348022159244"
     }
